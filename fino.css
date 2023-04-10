@@ -1,0 +1,167 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Overpass:wght@200&display=swap');
+
+.linha1{
+    position: absolute;
+    width: 730px;
+    height: 10px;
+    left: 365px;
+    top: 453px;
+    
+    background: #D4A9FF;
+}
+.linha2{
+    position: absolute;
+    width: 730px;
+    height: 10px;
+    left: 365px;
+    top: 520px;
+    
+    background: #D4A9FF;
+}
+.linha3{
+    position: absolute;
+    width: 730px;
+    height: 10px;
+    left: 365px;
+    top: 587px;
+    
+    background: #D4A9FF;
+}
+  .BKfundo{
+    position: absolute;
+    width: 730px;
+    height: 509px;
+    left: 30%;
+    top: 277px;
+    
+    background: #2B049B;
+    border-radius: 25px;
+}
+.CXtela{
+    position: absolute;
+    width: 444px;
+    height: 42px;
+    left: 39%;
+    top: 289px;
+    
+    background: #C070FF;
+    border-radius: 50px;
+    text-align: center;  
+}
+.Lnome{
+    position: absolute;
+    width: 55px;
+    height: 31px;
+    left: 397px;
+    top: 408px;
+    
+    font-family: 'Homenaje';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 27px;
+    
+    color: #FF6B99;
+}
+.CXnome{
+    position: absolute;
+    width: 466px;
+    height: 42px;
+    left: 497px;
+    top: 403px;
+    
+    background: #C070FF;
+    border-radius: 50px;
+}
+/*CSS do nome*/
+.Llogin{
+    position: absolute;
+    width: 55px;
+    height: 31px;
+    left: 397px;
+    top: 476px;
+    
+    font-family: 'Homenaje';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 27px;
+    
+    color: #FF6B99;
+}
+.CXlogin{
+    position: absolute;
+    width: 466px;
+    height: 42px;
+    left: 497px;
+    top: 470px;
+    
+    background: #C070FF;
+    border-radius: 50px;
+}
+/*CSS do login*/
+.Lsenha{
+    position: absolute;
+    width: 55px;
+    height: 31px;
+    left: 397px;
+    top: 543px;
+    
+    font-family: 'Homenaje';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 27px;
+    
+    color: #FF6B99;
+}
+.CXsenha{
+    position: absolute;
+    width: 466px;
+    height: 42px;
+    left: 497px;
+    top: 537px;
+    
+    background: #C070FF;
+    border-radius: 50px;
+}
+/*CSS da senha*/
+.Le-mail{
+    position: absolute;
+    width: 85px;
+    height: 31px;
+    left: 397px;
+    top: 609px;
+    
+    font-family: 'Homenaje';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 27px;
+    
+    color: #FF6B99;
+}
+.CXe-mail{
+    position: absolute;
+    width: 466px;
+    height: 42px;
+    left: 37%;
+    top: 604px;
+    
+    background: #C070FF;
+    border-radius: 50px;
+}
+/*CSS do email*/
+.CXcadastrar{
+    position: absolute;
+    width: 177px;
+    height: 34px;
+    left: 45%;
+    top: 739px;
+    
+    background: #878787;
+    border-radius: 50px;
+    font-size: 100%;
+    font-family: 'Overpass', sans-serif;
+}
