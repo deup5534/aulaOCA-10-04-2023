@@ -1,11 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
 
-  @import url('https://fonts.googleapis.com/css2?family=Overpass:wght@200&display=swap');
 
+body{
+    background-image: url(zyro-image\ \(1\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 .linha1{
     position: absolute;
     width: 730px;
     height: 10px;
-    left: 365px;
+    left: 30%;
     top: 453px;
     
     background: #D4A9FF;
@@ -14,7 +20,7 @@
     position: absolute;
     width: 730px;
     height: 10px;
-    left: 365px;
+    left: 30%;
     top: 520px;
     
     background: #D4A9FF;
@@ -23,7 +29,7 @@
     position: absolute;
     width: 730px;
     height: 10px;
-    left: 365px;
+    left: 30%;
     top: 587px;
     
     background: #D4A9FF;
@@ -42,8 +48,10 @@
     position: absolute;
     width: 444px;
     height: 42px;
-    left: 39%;
-    top: 289px;
+    left: 38%;
+    top: 15%;
+    text-decoration: underline;
+    font-family: 'Dancing Script', cursive;
     
     background: #C070FF;
     border-radius: 50px;
@@ -53,7 +61,7 @@
     position: absolute;
     width: 55px;
     height: 31px;
-    left: 397px;
+    left: 32%;
     top: 408px;
     
     font-family: 'Homenaje';
@@ -61,14 +69,14 @@
     font-weight: 400;
     font-size: 25px;
     line-height: 27px;
-    
+    text-decoration: underline;
     color: #FF6B99;
 }
 .CXnome{
     position: absolute;
     width: 466px;
     height: 42px;
-    left: 497px;
+    left: 37%;
     top: 403px;
     
     background: #C070FF;
@@ -77,10 +85,11 @@
 /*CSS do nome*/
 .Llogin{
     position: absolute;
-    width: 55px;
+    width: 85px;
     height: 31px;
-    left: 397px;
+    left: 32%;
     top: 476px;
+    text-decoration: underline;
     
     font-family: 'Homenaje';
     font-style: normal;
@@ -94,7 +103,7 @@
     position: absolute;
     width: 466px;
     height: 42px;
-    left: 497px;
+    left: 37%;
     top: 470px;
     
     background: #C070FF;
@@ -105,8 +114,9 @@
     position: absolute;
     width: 55px;
     height: 31px;
-    left: 397px;
+    left: 32%;
     top: 543px;
+    text-decoration: underline;
     
     font-family: 'Homenaje';
     font-style: normal;
@@ -120,7 +130,7 @@
     position: absolute;
     width: 466px;
     height: 42px;
-    left: 497px;
+    left: 37%;
     top: 537px;
     
     background: #C070FF;
@@ -131,8 +141,9 @@
     position: absolute;
     width: 85px;
     height: 31px;
-    left: 397px;
+    left: 32%;
     top: 609px;
+    text-decoration: underline;
     
     font-family: 'Homenaje';
     font-style: normal;
@@ -163,5 +174,5 @@
     background: #878787;
     border-radius: 50px;
     font-size: 100%;
-    font-family: 'Overpass', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
